@@ -1,3 +1,6 @@
+# healthcare_chatbot.py
+# A simple healthcare chatbot using first-order logic to diagnose diseases based on symptoms.
+
 knowledge_base = {
     'flu': ['fever', 'cough', 'sore_throat'],
     'common_cold': ['sneezing', 'runny_nose', 'mild_fever'],
@@ -40,4 +43,5 @@ def run_chatbot():
         print("\nNo matching disease found.")
         print("Please consult a healthcare professional.")
 
-run_chatbot()
+if __name__ == "__main__":
+    run_chatbot()

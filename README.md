@@ -70,6 +70,3 @@ Add symptom severity assessment for more nuanced diagnoses.
 Implement multilingual support for broader accessibility.
 Integrate with wearable devices for real-time health data.
 Add a probabilistic scoring system for partial symptom matches.
-
-Contact
-For questions or suggestions, feel free to open an issue on GitHub.
