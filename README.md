@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Healthcare Chatbot
 A simple healthcare chatbot built using Python and first-order logic (FOL) to diagnose diseases based on user-reported symptoms. The chatbot matches symptoms to a predefined knowledge base and provides actionable advice for potential diseases.
 Features
@@ -70,3 +71,6 @@ Add symptom severity assessment for more nuanced diagnoses.
 Implement multilingual support for broader accessibility.
 Integrate with wearable devices for real-time health data.
 Add a probabilistic scoring system for partial symptom matches.
+=======
+# healthcare-chatbot
+>>>>>>> 0bb41c7746109f86a5f46ef0b861abb7a3088fbf
